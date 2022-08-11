@@ -1,0 +1,98 @@
+body {
+
+  background-color: rgb(34, 103, 113);
+  font-size: 100%;
+  display: block;
+  text-align: center;
+
+}
+
+.contenedorInput {
+  background-color: rgb(68, 105, 169);
+  margin-top: 3%;
+  margin-top: 10%;
+  font-size: 200%;
+}
+
+.headerClass {
+  font-size: 150%;
+  color: aliceblue;
+}
+
+.inputClass {
+  font-size: 100%;
+  display: inline-block;
+  text-align: left;
+
+
+}
+
+.inputButton {
+  display: inline-block;
+  font-size: 100%;
+
+}
+
+.contTareas {
+  background-color: rgb(68, 105, 169);
+  margin-top: 3%;
+  color: aliceblue;
+  font-style: italic;
+}
+
+.prueba {
+  background-color: rgb(68, 105, 169);
+  margin-top: 3%;
+  color: aliceblue;
+  font-style: italic;
+
+
+
+}
+
+.li {
+  border-bottom: 1px solid wheat;
+  margin: 0%;
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+}
+
+.textA {
+  width: 50%;
+
+  text-align: left;
+
+}
+
+#div1 {
+  color: aliceblue;
+}
+
+.tachado {
+  text-decoration: line-through;
+  width: 50%;
+
+  text-align: left;
+
+
+}
+
+.contenedorEliminar {
+  background-color: rgb(68, 105, 169);
+  margin-top: 3%;
+  color: aliceblue;
+  font-style: italic;
+  margin-top: 5%;
+}
+
+.contLista {
+  background-color: rgb(68, 105, 169);
+  margin-top: 3%;
+  color: aliceblue;
+  font-style: italic;
+  margin-top: 10%;
+}
+.textListarTodo {
+  color: aliceblue;
+}
